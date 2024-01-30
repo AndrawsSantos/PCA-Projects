@@ -1,4 +1,4 @@
-# Principal Component Analysis projects
+# Principal Component Analysis Projects
 
 This repository contains a collection of Principal Component Analysis projects
 
